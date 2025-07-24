@@ -1,4 +1,4 @@
-// Vencord 627002d
+// Vencord 8300cf8
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
