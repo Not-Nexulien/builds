@@ -1,4 +1,4 @@
-// Vencord eb411cf
+// Vencord 74d9768
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
