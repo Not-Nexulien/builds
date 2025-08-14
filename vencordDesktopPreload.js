@@ -1,4 +1,4 @@
-// Vencord ee2465b
+// Vencord 9d69b35
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
