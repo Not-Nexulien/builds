@@ -1,4 +1,4 @@
-// Vencord b72384b
+// Vencord ca0c197
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
