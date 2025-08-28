@@ -1,4 +1,4 @@
-// Vencord 1d156ec
+// Vencord da24a0c
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
