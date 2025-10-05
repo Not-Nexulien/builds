@@ -1,4 +1,4 @@
-// Vencord 9f1c6bd
+// Vencord cb24b17
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
