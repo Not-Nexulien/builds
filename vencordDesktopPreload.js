@@ -1,4 +1,4 @@
-// Vencord cb24b17
+// Vencord f67cafb
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
