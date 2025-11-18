@@ -1,4 +1,4 @@
-// Vencord 0594e3a
+// Vencord d55f372
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
