@@ -1,4 +1,4 @@
-// Vencord d55f372
+// Vencord af50202
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
