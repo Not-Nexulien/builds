@@ -1,4 +1,4 @@
-// Vencord af50202
+// Vencord 4e6d63d
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
